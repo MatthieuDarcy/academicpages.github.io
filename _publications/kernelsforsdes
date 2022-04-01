@@ -1,0 +1,13 @@
+---
+title: "One-Shot Learning of Stochastic Differential Equations with Computational Graph Completion"
+collection: publications
+permalink: /publication/kernelsforsdes
+excerpt: 'We consider the problem of learning Stochastic Differential Equations of the form dXt = f (Xt)dt + σ(Xt)dWt from one sample trajectory.'
+date: 2022-02-01
+paperurl: 'https://www.researchgate.net/publication/358263232_One-Shot_Learning_of_Stochastic_Differential_Equations_with_Computational_Graph_Completion'
+---
+How to learn the drift and volatility of Stochastic Differential Equations using Gaussian Processes 
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

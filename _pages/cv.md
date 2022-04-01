@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[PhD Computing and Mathematical Sciences](https://www.cms.caltech.edu/) – California Institute of Technology, 2021-2026 
+
+[MVA](https://www.master-mva.com/) - ENS Paris-Saclay, 2020-2021
+
+[MSc Applied Mathematics](https://www.imperial.ac.uk/mathematics) – Imperial College London, 2019-2020
+
+[BA Mathematics and Philosophy](https://www.kcl.ac.uk/mathematics) - King’s College London, 2016-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Intern
+  * French Atomic Energy Comission (CEA)[https://www.cea.fr/] 
+  * Duties included: application of deep learning for hexahedral meshing
+  * Supervisor: Flavien Boussuge
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

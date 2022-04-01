@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * Summer 2021: Research Intern
-  * French Atomic Energy Comission (CEA)[https://www.cea.fr/] 
+  * French Atomic Energy Comission [CEA](https://www.cea.fr/) 
   * Duties included: application of deep learning for hexahedral meshing
   * Supervisor: Flavien Boussuge
   

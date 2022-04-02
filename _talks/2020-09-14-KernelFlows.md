@@ -1,5 +1,5 @@
 ---
-title: "title: "Kernel Flows Demystified: Application to Regression"
+title: "Kernel Flows Demystified: Application to Regression"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-09-14-KernelFlows.md

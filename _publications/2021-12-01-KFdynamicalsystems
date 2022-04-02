@@ -1,7 +1,7 @@
 ---
 title: "Learning dynamical systems from data: a simple cross-validation perspective, part II: nonparametric kernel flows"
 collection: publications
-permalink: files/One_shot_learning_for_SDEs_with_kernels.pdf
+permalink: /files/Learning_dynamical_systems_from_data__part_II__Nonparametric_KFs.pdf
 excerpt: 'We condsider how to infer dynamical systems using non-parametric Kernel Flows.'
 date: 2021-12-01
 venue: Preprint

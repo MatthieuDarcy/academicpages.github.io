@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endfor %}
 
 ## Talks 
-
+{% include base_path %}
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

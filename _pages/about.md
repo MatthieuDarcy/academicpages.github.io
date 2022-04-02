@@ -11,7 +11,7 @@ redirect_from:
 ## Bio
 I am a first year PhD student in the Computing and Mathematical Department at Caltech, under the supervision of [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm). I am interested in the applications of Gaussian Processes and Kernel Methods to problems in Machine learning and Applied Mathematics. 
 
-I am currently working onproblems in dynamical systems, stochastic differential equations and function renormalization groups. More broadly I am interested in stochastic processes, probability and functional analysis. 
+I am currently working on problems in dynamical systems, stochastic differential equations, and function renormalization groups. More broadly I am interested in stochastic processes, probability, and functional analysis. 
 
   
 

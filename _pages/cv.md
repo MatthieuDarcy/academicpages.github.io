@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 [PhD Computing and Mathematical Sciences](https://www.cms.caltech.edu/) – California Institute of Technology, 2021-Present.
 
 [MVA](https://www.master-mva.com/) - ENS Paris-Saclay, 2020-2021.
@@ -20,7 +19,6 @@ redirect_from:
 [BA Mathematics and Philosophy](https://www.kcl.ac.uk/mathematics) - King’s College London, 2016-2019.
 
 ## Research experience
-======
 **Summer 2021: Research Intern, [French Atomic Energy Comission CEA](https://www.cea.fr/).**  
 Application of deep learning for hexahedral meshing. Supervisor: Flavien Boussuge.
 

@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
+## Bio
 I am a first year PhD student in the Computing and Mathematical Department at Caltech, under the supervision of [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm). I am interested in the applications of Gaussian Processes and Kernel Methods to problems in Machine learning and Applied Mathematics. 
 
 I am currently working onproblems in dynamical systems, stochastic differential equations and function renormalization groups. More broadly I am interested in stochastic processes, probability and functional analysis. 
 
   
 
-# Education
+## Education
 
 [PhD Computing and Mathematical Sciences](https://www.cms.caltech.edu/) – California Institute of Technology, 2021-2026 
 
 [MVA](https://www.master-mva.com/) - ENS Paris-Saclay, 2020-2021
 
-# Recent Publications
+## Recent Publications
 
 [One-Shot Learning of Stochastic Differential Equations with Computational Graph Completion](https://www.researchgate.net/publication/358263232_One-Shot_Learning_of_Stochastic_Differential_Equations_with_Computational_Graph_Completion) (Preprint)
 

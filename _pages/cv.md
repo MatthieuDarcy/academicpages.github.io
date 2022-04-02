@@ -19,9 +19,12 @@ Education
 
 [BA Mathematics and Philosophy](https://www.kcl.ac.uk/mathematics) - King’s College London, 2016-2019.
 
-Work experience
+Research experience
 ======
 **Summer 2021: Research Intern, [French Atomic Energy Comission CEA](https://www.cea.fr/).**  
 Application of deep learning for hexahedral meshing. Supervisor: Flavien Boussuge.
+
+**Summer 2020: Master's research project, Imperial College London.**  
+Application of Kernel Flows to regression problems.
   
 

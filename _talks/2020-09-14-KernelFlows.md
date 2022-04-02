@@ -2,7 +2,7 @@
 title: "Kernel Flows Demystified: Application to Regression"
 collection: talks
 type: "Talk"
-permalink: https://www.youtube.com/watch?v=ZndevdR4omw
+permalink: 
 venue: "Fields Institute"
 date: 2020-09-14
 location: "Toronto, Canada"

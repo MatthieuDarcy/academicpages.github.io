@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-[PhD Computing and Mathematical Sciences](https://www.cms.caltech.edu/) – California Institute of Technology, 2021-2026.
+[PhD Computing and Mathematical Sciences](https://www.cms.caltech.edu/) – California Institute of Technology, 2021-Present.
 
 [MVA](https://www.master-mva.com/) - ENS Paris-Saclay, 2020-2021.
 

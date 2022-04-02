@@ -18,7 +18,9 @@ author_profile: true
 
 ## Talks 
 
-My talk on the [applications of kernels flows to regression](https://www.youtube.com/watch?v=ZndevdR4omw) (Symposium on Machine Learning and Dynamical systems at the Fields institute)
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 
 

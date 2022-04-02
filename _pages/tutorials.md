@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Bayesian Optimization for Hyper-parameter tuning
+### Bayesian Optimization for Hyper-parameter tuning
 
 A tutorial on how to use bayesian optimization with Gaussian Process surrogate modeling for tuning hyper-paramters.
 

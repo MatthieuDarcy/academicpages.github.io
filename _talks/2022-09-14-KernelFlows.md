@@ -1,11 +1,12 @@
 ---
-title: "Kernel Flows Demystified: Application to Regression"
+title: "One shot learning of stochastic differential equations with Gaussian processes and computational graph completion.""
 collection: talks
 type: "Talk"
-permalink: 
-venue: "Fields Institute"
-date: 2020-09-14
-location: "Toronto, Canada"
+permalink: /talks/2022-07-27-talk-SDE_CGC
+venue: "ICCOPT"
+date: 2022-07-14
+location: "Lehigh University, USA"
 ---
-[Watch here](https://www.youtube.com/watch?v=ZndevdR4omw)  
-I present the content of my master's thesis "Kernels Flows demystified: applications to regression".
+
+I present an approach to recover the drift and volatility functions of a stochastic differential equation 
+given data from one sample trajectory.

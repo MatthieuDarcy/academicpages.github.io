@@ -7,5 +7,5 @@ venue: "Fields Institute"
 date: 2020-09-14
 location: "Toronto, Canada"
 ---
-[Watch here](https://www.youtube.com/watch?v=ZndevdR4omw)  
-I present the content of my master's thesis "Kernels Flows demystified: applications to regression".
+I present an approach to recover the drift and volatility functions of a stochastic differential equation 
+given data from one sample trajectory.

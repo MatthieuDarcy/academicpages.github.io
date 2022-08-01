@@ -2,7 +2,7 @@
 title: "One shot learning of stochastic differential equations with Gaussian processes and computational graph completion.""
 collection: talks
 type: "Talk"
-permalink: /talks/2022-07-27-talk-SDE_CGC
+permalink: 
 venue: "ICCOPT"
 date: 2022-07-14
 location: "Lehigh University, USA"

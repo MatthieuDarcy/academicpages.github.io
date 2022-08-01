@@ -1,9 +1,9 @@
 ---
-title: "Kernel Flows Demystified: Application to Regression"
+title: "One shot learning of stochastic differential equations with Gaussian processes and computational graph completion."
 collection: talks
 type: "Talk"
 permalink: 
-venue: "ICCOPt"
+venue: "ICCOPT"
 date: 2022-07-14
 location: "Lehigh University, PA, USA"
 ---

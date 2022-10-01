@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# New and up to date website: [https://sites.google.com/view/matthieudarcy/]
+# [New and up to date website](https://sites.google.com/view/matthieudarcy/)
 
 ## Bio
 
